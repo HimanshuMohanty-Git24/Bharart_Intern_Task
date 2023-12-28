@@ -37,7 +37,7 @@ Follow the steps below to get the Registration Form project up and running local
 4. Run the application:
 
     ```bash
-    node app.js
+    node index.js
     ```
 
     Visit `http://localhost:3000` in your browser to see the Registration Form in action.
