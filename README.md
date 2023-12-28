@@ -22,13 +22,6 @@ Welcome to the repository for the Bharat Intern Full Stack Web Development Virtu
 
 **LinkedIn Post:** [LinkedIn Post - Blog Website](https://www.linkedin.com/posts/himanshumohanty_bharatintern-fullstackdevelopment-webdevelopment-activity-7146180423738400768-z0GJ?utm_source=share&utm_medium=member_desktop) 🌐
 
-### Task 3: Money Tracker WebApp
-
-**Description:** A money tracker app for managing expenses and income using HTML, CSS, Node.js, and MongoDB.
-
-**GitHub Link:** [Bharat Intern Task - Money Tracker WebApp](https://github.com/HimanshuMohanty-Git24/Bharart_Intern_Task/tree/master/Money_Tracker)
-
-**LinkedIn Post:** [LinkedIn Post - Money Tracker WebApp](insert_linkedin_post_link_here) 💸
 
 ## Getting Started
 
